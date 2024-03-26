@@ -1,5 +1,5 @@
 {
-  "name": "alegra/omnipay-gvp",
+  "name": "naimeken/omnipay-gvp",
   "type": "library",
   "description": "Gvp(Garanti, Denizbank, TEB, ING, Şekerbank, TFKB sanal pos) gateway for Omnipay payment processing library",
   "homepage": "https://github.com/alegraio/omnipay-gvp",
@@ -15,7 +15,7 @@
     }
   },
   "require": {
-    "php": "^7.3",
+    "php": "^7.3 || ^8.0",
     "omnipay/common": "^3",
     "ext-json": "*",
     "ext-simplexml": "*",
